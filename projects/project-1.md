@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/phone1.jpg
+image: images/phone1.jpeg
 title: Telephone Directory
 permalink: projects/directory
 date: 2013
