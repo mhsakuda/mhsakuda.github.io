@@ -7,6 +7,7 @@ permalink: projects/directory
 date: 2013
 labels:
   - Java
+  - GitHub
 summary: A java-based program that was my final project for ICS 211.
 ---
 
