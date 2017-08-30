@@ -2,11 +2,11 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
+title: Recursive Programming
 permalink: projects/cotton
 date: 2014
 labels:
-  - Lisp
+  - Java
   - GitHub
 summary: A text adventure game I developed for ICS 313.
 ---
