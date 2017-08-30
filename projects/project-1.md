@@ -4,11 +4,11 @@ type: project
 image: images/phone1.jpeg
 title: Telephone Directory
 permalink: projects/directory
-date: 2013
+date: 2014
 labels:
   - Java
   - GitHub
-summary: A java-based program that was my final project for ICS 211.
+summary: A java-based Telephone directory that was my final project for ICS 211.
 ---
 
 <img class="ui medium right floated rounded image" src="/images/phone.jpg">
