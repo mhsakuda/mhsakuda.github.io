@@ -1,24 +1,22 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
-date: 2015
+image: images/grocery.jpg
+title: Grocery List
+permalink: projects/Grocery
+date: 2014
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
+  - Java
   - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: A Java based program which allows editing of a user imported list, including adding and removing items, and creates a new list.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/grocery1.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Grocery List was an assignment that I developed for ICS 211, Spring 2014. This assignment helped me understand how to use arrays to store user inputted data, and how to edit arrays in Java.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Using Java, I was able to program a user-driven menu which displayed add, remove, list, edit, and quit functions. Command-line arguments allow the user to edit an exisiting list, and the program will write the new list to an output file when the user is finished.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+In this assignment I strengthened my understanding of arrays in Java, and had a first hand experience of the uses of arrays in developing programs. I also was able to use previous knowledge from past assignments, such as using command-line arguments, and developing a user-driven menu interface.
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://github.com/mhsakuda/ICS-Projects/tree/master/Assignment%204"><i class="large github icon"></i>ICS211/GroceryList</a>
