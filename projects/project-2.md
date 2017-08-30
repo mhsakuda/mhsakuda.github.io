@@ -13,7 +13,7 @@ summary: A Java based program which allows editing of a user imported list, incl
 
 <img class="ui medium right floated rounded image" src="../images/grocery1.jpg">
 
-Grocery List was an program that I developed for ICS 211, Spring 2014. This assignment helped me understand how to use arrays to store user inputted data, and how to edit arrays in Java.
+Grocery List was a program that I developed for ICS 211, Spring 2014. This assignment helped me understand how to use arrays to store user inputted data, and how to edit arrays in Java.
 
 Using Java, I was able to program a user-driven menu which displayed add, remove, list, edit, and quit functions. Command-line arguments allow the user to edit an exisiting list, and the program will write the new list to an output file when the user is finished.
 
