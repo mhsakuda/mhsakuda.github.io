@@ -8,7 +8,7 @@ date: 2014
 labels:
   - Java
   - GitHub
-summary: A Java based program which allows editing of a user imported list, including adding and removing items, and creates a new list.
+summary: A Java based program which can perform multiple functions on a list.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/grocery1.jpg">
