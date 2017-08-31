@@ -11,7 +11,7 @@ labels:
 summary: Learning the importance of recursion in Computer Science (ICS 211).
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/recursion1.jpg>
+<img class="ui large right floated rounded image" src="../images/recursion1.jpg">
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
