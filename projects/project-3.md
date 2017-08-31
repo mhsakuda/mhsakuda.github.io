@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/recursion.jpg
+image: images/recursion.JPG
 title: Recursive Programming
 permalink: projects/recursion
 date: 2014
