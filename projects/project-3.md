@@ -13,9 +13,11 @@ summary: Learning the importance of recursion in Computer Science (ICS 211).
 
 <img class="ui large right floated rounded image" src="../images/recursion1.jpg">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+Recursion is a method in computer science that uses solutions of smaller instances of the same problem to find the solution to the original problem. In order to implement recursion in programs, we allow a function to call itself with in the program.
 
-Here is a great example of recursion in English:
+For this assignment, we developed five recursive methods for a user-inputted positive integer, and displayed them. Although recursion is hard to implement due to memory restraints, understanding the concept of recursion was helpful when later learning about algorithms in ICS 311.
+
+Here is a great example of recursion in English I found on Stack Overflow:
 
 <hr>
 
@@ -31,6 +33,6 @@ A child couldn't sleep, so her mother told her a story about a little frog,
 
 <hr>
 
-Source" <a href="https://stackoverflow.com/questions/3021/what-is-recursion-and-when-should-i-use-it"><i class = "large stack-overflow></i><what-is-recursion</a>
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source" <a href="https://stackoverflow.com/questions/3021/what-is-recursion-and-when-should-i-use-it"></i><what-is-recursion</a>
+Source: <a href="https://github.com/mhsakuda/ICS-Projects/blob/master/Assignment%206/SakudaMitchell6.java"><i class="large github icon "></i>mhsakuda/ics-211-recursion</a>
 
