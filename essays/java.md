@@ -12,7 +12,7 @@ labels:
 
 <img class="ui medium right floated image" src="../images/javascript.jpg">
 
-So. What do you think about Javascript so far? If you’re a complete newbie, how does it compare to other programming languages that you know? If you have prior experience, did you learn new things from this module, perhaps with respect to ES6? Do you think Javascript is a good or bad programming language from a software engineering perspective?
+Being a complete newbie at Javascript, I would say my first experiences with the language were good. I felt it had similar shorthand notations like Python, while being similar to Java in other aspects. I thought Javascript was about the same difficulty as Java, and that it seems like a good programming language from a software engineering perspective. However, since we've had very little exposure to the language overall, I feel like it is a bit early for me to make any assumptions regarding the language for software engineering.
 
 What about athletic software engineering? Did you find the practice WODs to be useful? What do you think about this style of learning? Is it stressful? Is it enjoyable? Do you think it will work for you?
 
