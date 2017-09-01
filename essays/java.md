@@ -1,3 +1,17 @@
+---
+layout: essay
+type: essay
+title: Learning the ropes
+date: 2017-08-31
+labels:
+  - Software Engineering
+  - ICS 314
+  - Learning
+  - Javascript 
+---
+
+<img class="ui medium right floated image" src="../images/javascript.jpg">
+
 So. What do you think about Javascript so far? If you’re a complete newbie, how does it compare to other programming languages that you know? If you have prior experience, did you learn new things from this module, perhaps with respect to ES6? Do you think Javascript is a good or bad programming language from a software engineering perspective?
 
 What about athletic software engineering? Did you find the practice WODs to be useful? What do you think about this style of learning? Is it stressful? Is it enjoyable? Do you think it will work for you?
