@@ -1,24 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "UI Frameworks: Because no one wants to look at a website that appears it was designed in the 1990's"
-date: 2017-10-06
+title: "Meteor Gotchas"
+date: 2017-10-19
 labels:
   - Software Engineering
-  - ICS 314
-  - CSS
-  - HTML
-  - Javascript
-  - Semantic UI
+  - Meteor
 ---
 
-<img class="ui medium right floated image" src="../images/semantic.jpg">
+Using Meteor has been an interesting experience so far for developing our Digits application. The first major issue that I encountered was the initial set-up and installation of Meteor. There was times where -meteor run would not work, the localhost site would not refresh properly and would therefore crash, and issues where Meteor would take too long to startup. I read through the Meteor tips and tricks and discovered that Windows Defender was the problem with Meteor runtime, as it scans all the files when building the application. For future applications, disabling Windows Defender is a must. Second, I did a clean re-installation of Meteor and MongoDB to make sure there weren't any corrupt files that were causing issues. After performing these two actions, I can say that Meteor hasn't been giving me any issues starting up or building the application.
 
-Website design has dramatically improved since the beginning of the World Wide Web. Personally, I remember designing a website in my middle school class on Geocities using only basic HTML. Back then, fonts were bland and mostly the same (I'm looking at you Comic Sans) and the most eye-popping effects were rainbow text and sparkle effects. Since then, the use of CSS files has greatly improved both the flow and look of web pages. Uninspired web pages can be easily improved using CSS to spring new life into them, by implementing eye-catching fonts and designs while not overly complicating the website itself.
-
-My own knowledge of HTML and CSS was very limited, so learning Semantic UI was a bit challenging at first, as you would expect when learning a new programming language. However, the online tutorials make it easy to implement design ideas that you make have. The many features of Semantic UI make it fairly streamline when designing a web page, such as easy implementation of grid and containers to allow to align certain elements in the web page, and sleek buttons and menu options for links and user input. Overall, learning and using Semantic UI allowed me to design and modify web pages without too much stress, and producing quality content that I would expect from hiring a professional.
-
-Nowadays, you need to have a professional looking website that is eye-catching yet easy to navigate. Semantic UI was perfect for this, as it grants you nearly total control over the entire page, and include scaling elements which support various resolutions, from phones to tablets to desktops. This feature was extremely useful because I have personal experience dealing with websites that aren't mobile-friendly. Understanding the design aspect of coding helped me realize that not only does your code have to work, but it needs to look good at the same time, and powerful tools such as Semantic UI are valuable in achieving this.
-
-<img class="ui medium right floated rounded image" src="/images/murphys.png">
-An example mock-up of <a href="http://murphyshawaii.com/">Murphy's Bar and Grill</a> using <a href="https://semantic-ui.com/">Semantic UI</a>.
+Another issue I encountered was during the actual development of the Digits application. My contact list was not showing up on the home page despite creating a contacts list in the database and linking up with the html files. It turns out that I had capitalized a variable in one of the files, and that's why it was displaying nothing on the main page. A lesson learned was to make sure to double check all variable names and make sure that they are being called properly when needed.
