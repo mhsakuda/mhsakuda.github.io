@@ -14,7 +14,7 @@ labels:
 summary: Web-based application developed for ICS 311.
 ---
 
-<img class="ui large middle image" src="../images/homepage.png">
+<img class="ui fluid image" src="../images/homepage.png">
 
 Manoa Marketplace was a web-based application developed for my group final project in ICS 311. Using Bowfolios, a Meteor based application developed for the UH Community, we were able to create a Craiglist-like alternative for UH Manoa students.
 
