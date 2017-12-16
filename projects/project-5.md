@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/recursion.jpg
+image: images/meteorsmall.png
 title: Digits Meteor Application
 permalink: projects/digits
 date: 2017
