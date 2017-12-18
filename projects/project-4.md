@@ -11,7 +11,7 @@ labels:
   - Meteor
   - Semantic UI
   - HTML
-summary: Web-based application developed for ICS 311.
+summary: Web-based application developed for ICS 314.
 ---
 
 <img class="ui fluid image" src="../images/homepage.png">
