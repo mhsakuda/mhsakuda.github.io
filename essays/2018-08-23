@@ -1,0 +1,15 @@
+---
+layout: essay
+type: essay
+title: "Becoming a TechFolios Developer."
+date: 2018-08-23
+labels:
+  - Software Engineering
+  - ICS 491
+  - TechFolios
+  - Developer
+---
+
+A familar phrase in computer science which I heard a lot was "Don't reinvent the wheel." For software engineering, there are problems that frequently arise during software design. Therefore, instead of having to constantly come up with solutions to these said recurring problems, software design patterns can be applied to solve them more efficiently and quickly. In fact, many coding problems that were covered in previous courses I have taken were already solved, but by using practices and templates on how to solve these problems, you can save yourself a lot of time and trouble instead of stressing out and solving these problems from scratch.
+
+Using Bowfolios for our final project is a great example of design patterns in software engineering. By using existing templates and code, we are able to manipulate Bowfolios to suit our needs for our project. For example, I was able to change Bowfolios to allow users to post multiple items on their account, instead of only having one "profile", as well as alter certain collections to better suit our needs. Such practices will come in handy in the professional workfield and in future courses as well.
