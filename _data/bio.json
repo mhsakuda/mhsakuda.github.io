@@ -66,13 +66,6 @@
       ]
     },
     {
-      "name": "Certificates",
-      "level": "",
-      "keywords": [
-        "Certified Ethical Hacker(CEHv10) by EC-Council",
-      ]
-    },
-    {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
@@ -98,6 +91,16 @@
       "studyType": "B.A.",
       "startDate": "2007",
       "endDate": "2013",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+    {
+      "institution": "EC-Council",
+      "area": "Ethical Hacking",
+      "studyType": "Certificate",
+      "startDate": "",
+      "endDate": "2019",
       "gpa": "",
       "courses": [
       ]
