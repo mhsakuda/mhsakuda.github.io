@@ -64,7 +64,7 @@
         "CSS",
         "Meteor",
       ]
-    }
+    },
     {
       "name": "Toolsets/OS",
       "level": "",
@@ -84,46 +84,6 @@
       "gpa": "",
       "courses": [ICS111- Intro to CS,ICS141- Discrete Math I,ICS211- Intro to CS II,ICS212- Program Structure,ICS241- Discrete Math II,ICS311- Algorithms,ICS312- Machine-Level and Systems Programming,ICS313- Programming Language Theory,ICS314- Software Engineering I,ICS321- Data Storage and Retrieval,ICS332- Operating Systems,ICS414- Software Engineering II, ICS425- Computer Security and Ethics,ICS426- Computer Security and Ethics II,ICS428- Digital Forensics,ICS466- Mobile Design 
       ]
-    }
-  ],
-  "work": [
-    {
-      "company": "Kumon North America",
-      "position": "Tutor",
-      "website": "https://www.kumon.com/",
-      "startDate": "2015-06-01",
-      "endDate": "2016-01-01",
-      "summary": "Tutored children from K-12 (ages 4-17) on math and reading",
-      "highlights": [
-        "Develop and teach students math and reading concepts",
-        "Grade and evaluate students ability to problem solve"
-      ]
-    }
-  ],
-
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "AFROTC In College Scholarship",
-      "date": "Spring 2016",
-      "awarder": "University of Hawaii at Manoa Detachment 175 AFROTC",
-      "summary": "Recieved a 3.5 year type 2 scholarship for higher performance in program. See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
-}
-
-      ]
     },
     {
       "institution": "University of Hawaii, Honolulu, HI",
@@ -134,7 +94,7 @@
       "gpa": "",
       "courses": [
       ]
-    }
+    },
     {
       "institution": "EC-Council",
       "area": "Ethical Hacking",
