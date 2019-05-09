@@ -6,7 +6,7 @@
     "email": "mhsakuda@hawaii.edu",
     "phone": "",
     "website": "https://mhsakuda.github.io",
-    "summary": "Currently studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall 2018.",
+    "summary": "Currently studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall 2019.",
     "location": {
       "address": "",
       "postalCode": "96707",
@@ -39,6 +39,11 @@
       ]
     },
     {
+      "name": "Cybersecurity",
+      "keywords": [
+      ]
+    },
+    {
       "name": "Mobile Applications",
       "keywords": [
       ]
@@ -55,6 +60,13 @@
         "Javascript",
         "Python",
         "SQL",
+      ]
+    },
+    {
+      "name": "Certificates",
+      "level": "",
+      "keywords": [
+        "Certified Ethical Hacker(CEHv10) by EC-Council",
       ]
     },
     {
