@@ -60,6 +60,9 @@
         "Javascript",
         "Python",
         "SQL",
+        "HTML",
+        "CSS",
+        "Meteor",
       ]
     },
     {
@@ -99,7 +102,14 @@
       "courses": [
       ]
     }
-  ],
+    {
+      "name": "Certificates",
+      "level": "",
+      "keywords": [
+        "Certified Ethical Hacker(CEHv10) by EC-Council",
+      ]
+    }
+  ], 
   "work": [
     {
       "company": "Coffee Bean & Tea Leaf Hawaii",
@@ -107,9 +117,9 @@
       "website": "http://coffeebeanhawaii.com/",
       "startDate": "2013-11-01",
       "endDate": "Present",
-      "summary": "Part-time shift supervisor",
+      "summary": "Part-time Shift Supervisor",
       "highlights": [
-        "Supervisor co-workers to ensure a healthy work environment while satisfying needs of customers.",
+        "Supervise co-workers to ensure a healthy work environment while satisfying needs of customers.",
         "Ensure facilities are cleaned and prepared for next working day."
       ]
     },
