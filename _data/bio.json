@@ -6,7 +6,7 @@
     "email": "mhsakuda@hawaii.edu",
     "phone": "",
     "website": "https://mhsakuda.github.io",
-    "summary": "Currently studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall 2019.",
+    "summary": "Obtained B.S. Information and Computer Science from the Department of Information and Computer Sciences at the University of Hawaii at Manoa.",
     "location": {
       "address": "",
       "postalCode": "96707",
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "name": "Design for Mobile Devices",
+      "name": "Information Technology",
       "keywords": [
       ]
     },
@@ -77,12 +77,12 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2019)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2015",
-      "endDate": "Present",
+      "endDate": "2019",
       "gpa": "",
-      "courses": [ICS111- Intro to CS,ICS141- Discrete Math I,ICS211- Intro to CS II,ICS212- Program Structure,ICS241- Discrete Math II,ICS311- Algorithms,ICS312- Machine-Level and Systems Programming,ICS313- Programming Language Theory,ICS314- Software Engineering I,ICS321- Data Storage and Retrieval,ICS332- Operating Systems,ICS414- Software Engineering II, ICS425- Computer Security and Ethics,ICS426- Computer Security and Ethics II,ICS428- Digital Forensics,ICS466- Mobile Design 
+      "courses": [ICS111- Intro to CS,ICS141- Discrete Math I,ICS211- Intro to CS II,ICS212- Program Structure,ICS241- Discrete Math II,ICS311- Algorithms,ICS313- Programming Language Theory,ICS314- Software Engineering I,ICS321- Data Storage and Retrieval,ICS331- Logic Systems and Microprocessors,ICS332- Operating Systems,ICS414- Software Engineering II, ICS425- Computer Security and Ethics,ICS426- Computer Security and Ethics II,ICS428- Digital Forensics,ICS466- Mobile Design 
       ]
     },
     {
