@@ -6,7 +6,7 @@
     "email": "mhsakuda@hawaii.edu",
     "phone": "",
     "website": "https://mhsakuda.github.io",
-    "summary": "Obtained B.S. Information and Computer Science from the Department of Information and Computer Sciences at the University of Hawaii at Manoa.",
+    "summary": "Obtained B.S. in Computer Science from the Department of Information & Computer Sciences at the University of Hawaii at Manoa. Seeking a technical position in the field of Information Technology, Software Development, or Web Development.",
     "location": {
       "address": "",
       "postalCode": "96707",
@@ -76,7 +76,7 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2015",
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Biology",
       "studyType": "B.A.",
       "startDate": "2007",
