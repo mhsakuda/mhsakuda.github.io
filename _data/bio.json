@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Mitchell Sakuda",
-    "label": "Student",
+    "label": "Graduate",
     "picture": "https://mhsakuda.github.io/images/photo.jpg",
     "email": "mhsakuda@hawaii.edu",
     "phone": "",
@@ -62,7 +62,10 @@
         "SQL",
         "HTML",
         "CSS",
-        "Meteor"
+        "Meteor",
+        "Assembly",
+        "Logisim",
+        "DLX architecture"
       ]
     },
     {
@@ -70,6 +73,7 @@
       "level": "",
       "keywords": [
         "Windows",
+        "Android",
         "Git/GitHub"
       ]
     }
