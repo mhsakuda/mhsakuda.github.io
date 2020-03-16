@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Mitchell Sakuda",
-    "label": "Graduate",
+    "label": "IT Technician Intern",
     "picture": "https://mhsakuda.github.io/images/photo.jpg",
     "email": "mhsakuda@gmail.edu",
     "phone": "",
@@ -111,6 +111,18 @@
     }
   ], 
   "work": [
+    {
+      "company": "Pharmacare Hawaii",
+      "position": "IT Technician Intern",
+      "website": "http://coffeebeanhawaii.com/",
+      "startDate": "2020-03-05",
+      "endDate": "Present",
+      "summary": "Part-time IT Technician Intern",
+      "highlights": [
+        "Provide level 1 technical support for IT department.",
+        "Respond to issue tickets submitted through SpiceWorks and STATS ticket tracking systems.",
+      ]
+    },
     {
       "company": "Coffee Bean & Tea Leaf Hawaii",
       "position": "Shift Supervisor",
